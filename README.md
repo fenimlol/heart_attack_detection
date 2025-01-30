@@ -9,5 +9,7 @@ This project leverages machine learning algorithms to predict heart attack risks
 - **Goal:** Achieve a **75-95% accuracy** in predicting heart attack risks.
 
 ## 🛠️ Technologies Used
-
+- **Programming Language:** Python 🐍
+- **Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
+- **Algorithms:** Logistic Regression, Random Forest, SVM, Neural Networks
 
